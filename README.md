@@ -1,19 +1,22 @@
-# ROBOT MOBIL ECHIPAT CU CAMERĂ
+# Mobile Robot with Camera and HTTP Server for Remote Operations
 
-## Descriere
-Proiectul este un proiect bazat pe ESP32 care utilizează o cameră pentru a transmite imagini printr-o rețea WiFi pentru a facilita funcționalitățile asociate camerei și serverului HTTP. 
+## Description
 
-## Configurare
+This project is based on the ESP32 platform and uses an integrated camera module to capture and stream images over a WiFi network. The system provides camera-related functionalities through an HTTP server, enabling remote monitoring, control, and interaction with the mobile robot.
 
-### Cerințe
+## Setup
+
+### Requirements
+
 - CLion
-- Platformio
+- PlatformIO
 - Python
 - C/C++
-  
-## Contribuții
-Contribuțiile sunt binevenite! Dacă dorești să contribui, te rugăm să deschizi un issue sau să trimiți un pull request.
 
-## Licență
-Acest proiect este licențiat sub Licența MIT - vezi fișierul [LICENSE.md](LICENSE.md) pentru detalii.
+## Contributions
 
+Contributions are welcome! If you would like to contribute to this project, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for more information.
